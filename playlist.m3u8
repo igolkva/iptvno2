@@ -1,4 +1,13 @@
 #EXTM3U
-#EXTINF:32.00000,
-https://igolkva.github.io/iptvno2/mp4file.mp4
-
+#EXTINF:5.00000, Osa1
+https://igolkva.github.io/iptvno2/osa1.ts
+#EXTINF:5.00000, Osa2
+https://igolkva.github.io/iptvno2/osa2.ts
+#EXTINF:5.00000, Osa3
+https://igolkva.github.io/iptvno2/osa3.ts
+#EXTINF:5.00000, Osa4
+https://igolkva.github.io/iptvno2/osa4.ts
+#EXTINF:5.00000, Osa5
+https://igolkva.github.io/iptvno2/osa5.ts
+#EXTINF:5.00000, Osa6
+https://igolkva.github.io/iptvno2/osa6.ts
